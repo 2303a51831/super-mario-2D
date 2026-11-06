@@ -53,3 +53,7 @@ crashlytics-build.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Unity auto-recovery
+[Aa]ssets/_Recovery/
+[Aa]ssets/_Recovery.meta
